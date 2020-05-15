@@ -1,0 +1,3 @@
+rootProject.name='FxSkinInner'
+include ':app'
+include ':skin_fx'
